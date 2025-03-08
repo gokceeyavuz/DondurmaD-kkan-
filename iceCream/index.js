@@ -22,7 +22,7 @@ const index = () => {
         </View>
         <View style={style.iconBar2}>
           <View style={style.iceCreamİcon}>
-            <Image source={images.iceCream} style={style.iceCreamİcon}></Image>
+            <Image source={icons.iceCream} style={style.iceCreamİcon}></Image>
           </View>
           <View style={style.group2}>
             <View style={style.shopİconcerceve}>
